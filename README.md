@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickmason245&label=Profile%20views&color=0e75b6&style=flat" alt="nickmason245" /> </p>
 
-- 🔭 I’m currently working on **GoPDF**
+- 🔭 I’m currently working on **GoPDF @Pixolat LLC**
 
 - 🌱 I’m currently learning **advanced LLM fine-tuning (LoRA), multi-agent orchestration, RAG evaluation, vector search optimization, Kubernetes for ML, and cost-efficient model serving.**
 
