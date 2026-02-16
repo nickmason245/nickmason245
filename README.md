@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickmason245&label=Profile%20views&color=0e75b6&style=flat" alt="nickmason245" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickmason245" alt="nickmason245" /></a> </p>
-
 - 🔭 I’m currently working on **GoPDF**
 
 - 🌱 I’m currently learning **advanced LLM fine-tuning (LoRA), multi-agent orchestration, RAG evaluation, vector search optimization, Kubernetes for ML, and cost-efficient model serving.**
