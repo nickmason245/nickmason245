@@ -1,3 +1,6 @@
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn51e4v-VtOnqymMJxnWoKPst3v1k-ignc3w&s)
+
+
 <h1 align="center">Hi 👋, I'm Nick Mason</h1>
 <h3 align="center">Principal Software Engineer at Pixolat LLC with 7+ years of experience building scalable AI and production-grade ML systems</h3>
 
