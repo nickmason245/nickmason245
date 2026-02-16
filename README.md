@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn51e4v-VtOnqymMJxnWoKPst3v1k-ignc3w&s)
+
 
 
 <h1 align="center">Hi 👋, I'm Nick Mason</h1>
